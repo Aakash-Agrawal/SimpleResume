@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.6.27)  1 JUL 2012 00:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.6.27)  1 JUL 2012 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,26 +63,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.76 {Technical Sudoku\\V
-                         IT(Melange)} & Stood 2\textsuperscript{nd}
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Missing { inserted.
-<inserted text> 
-                {
-l.76 {Technical Sudoku\\VIT(Melange)} &
-                                        Stood 2\textsuperscript{nd}
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
