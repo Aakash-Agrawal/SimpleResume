@@ -74,7 +74,7 @@ Databases & Oracle\textsuperscript{\textregistered} 10g
 	{VolleyBall Player} & Division Level\\
 	{Elementary Drawing Grade Exam} & B Grade\\
 	{Intermediate Drawing Grade Exam} & A Grade\\
-	{MTS Examination \romannumeral 1 and \romannumeral 2} & District Rank\\
+	{MTS Examination \MakeUppercase{\romannumeral 1} and \MakeUppercase{\romannumeral 2}} & District Rank\\
 
 \end{tabular}
  
